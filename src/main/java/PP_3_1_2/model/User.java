@@ -1,7 +1,9 @@
 package PP_3_1_2.model;
 
 
-import jakarta.persistence.*;
+
+
+import javax.persistence.*;
 
 @Entity
 @Table(name = "users")
